@@ -6,7 +6,6 @@
 📊 Particularly interested in the convergence of artificial intelligence, cloud infrastructure, and data science  
 🧠 Currently learning: LangChain, Reinforcement Learning, and Infrastructure as Code (IaC)  
 🤝 Open to collaborations on AI research, autonomous agents, and cloud automation projects  
-⏱️ [WakaTime](https://wakatime.com/@sergiolampi01)
 📬 Reach me at:
 - 📧 Institutional: s331080@studenti.polito.it  
 - 📧 Personal: sergiolampidecchia1@gmail.com  
