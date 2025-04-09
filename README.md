@@ -9,6 +9,6 @@
 📬 Reach me at:
 - 📧 Institutional: s331080@studenti.polito.it  
 - 📧 Personal: sergiolampidecchia1@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sergiolampidecchia)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sergio-lampidecchia-7b687b1a8/)
  
 
