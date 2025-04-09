@@ -10,5 +10,6 @@
 - 📧 Institutional: s331080@studenti.polito.it  
 - 📧 Personal: sergiolampidecchia1@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sergio-lampidecchia-7b687b1a8/)
+[![WakaTime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white)](https://wakatime.com/@sergiolampi01)
  
 
