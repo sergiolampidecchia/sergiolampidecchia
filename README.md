@@ -1,12 +1,14 @@
-- 👋 Hi, I’m @sergiolampidecchia
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 👋 Hi, I’m Sergio Lampidecchia
 
-<!---
-sergiolampidecchia/sergiolampidecchia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 MSc Student in Computer Engineering – Artificial Intelligence & Data Analytics @PoliTo  
+💼 AI Engineer Intern @Data Reply – applying AI techniques to build impactful, data-driven solutions  
+💡 Enthusiastic about intelligent systems, agent-based architectures, and the engineering of AI-powered software  
+📊 Particularly interested in the convergence of artificial intelligence, cloud infrastructure, and data science  
+🧠 Currently learning: LangChain, Reinforcement Learning, and Infrastructure as Code (IaC)  
+🤝 Open to collaborations on AI research, autonomous agents, and cloud automation projects  
+📬 Reach me at:
+- 📧 Institutional: s331080@studenti.polito.it  
+- 📧 Personal: sergiolampidecchia1@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sergiolampidecchia)
+ 
+
